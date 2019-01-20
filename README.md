@@ -1,4 +1,5 @@
 #Elastic stack on Docker
+[![Build Status](https://travis-ci.org/ravichalla/elkstack.svg?branch=master)](https://travis-ci.org/ravichalla/elkstack)
 
 
 The ELK stack is set in this project and data of laptop has been given as input to kibana.
