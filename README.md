@@ -30,7 +30,7 @@ git clone https://github.com/ravichalla/elk_stack.git
   cd metricbeat-6.1.2-darwin-x86_64
   sudo vi metricbeat.yml
 
-![Kibana Dashboard] (https://raw.githubusercontent.com/ravichalla/portfolio/master/public/images/portfolio/elk.png) 
+![Kibana Dashboard](https://raw.githubusercontent.com/ravichalla/portfolio/master/public/images/portfolio/elk.png) 
 
 **Note**: For mac run
   sudo chown root metricbeat.yml
