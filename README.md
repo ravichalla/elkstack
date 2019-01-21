@@ -10,7 +10,7 @@ The whole process including commands:
 Requirements:
 Docker,DockerCompose.
 
-STEPS:-
+#STEPS:-
 . start docker on the machine.
 . Download the gitrepo with command  
 git clone https://github.com/ravichalla/elk_stack.git    
@@ -29,6 +29,8 @@ git clone https://github.com/ravichalla/elk_stack.git
 . Use metricBeats , to collect metrics on OS and ship to elasticsearch container
   cd metricbeat-6.1.2-darwin-x86_64
   sudo vi metricbeat.yml
+
+![Kibana Dashboard] (https://raw.githubusercontent.com/ravichalla/portfolio/master/public/images/portfolio/elk.png) 
 
 **Note**: For mac run
   sudo chown root metricbeat.yml
